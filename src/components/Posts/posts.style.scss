@@ -1,0 +1,12 @@
+.download_button_container {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  .download_button {
+    background-color: red;
+    padding: 10px;
+    border-radius: 25px;
+    color: white;
+    text-decoration: none;
+  }
+}
